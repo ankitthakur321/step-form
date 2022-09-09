@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/Pinsout-Innovation/step-form/';
+    public $baseURL = 'http://localhost/step-form/';
 
     /**
      * --------------------------------------------------------------------------

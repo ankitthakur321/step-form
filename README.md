@@ -25,6 +25,13 @@ After visiting ths url the project will start.
 
 **Server:** CodeIgnitor4(PHP)
 
+
+## Screenshots
+
+![App Screenshot](assets/img/Output.png)
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
